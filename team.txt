@@ -1,0 +1,10 @@
+team name - 
+Team-Thirteen-Collab
+
+Project Collaborators
+    Name                        Contribute
+Mohan M                 -     Log-in Page
+Inzamamul Hasan         -     navebar part
+Nitin Gautam            -     WoMen's Category page
+Amir Khan               -     Sign-Up Page
+Chandrashekhar Joshi    -     Men's Category page
